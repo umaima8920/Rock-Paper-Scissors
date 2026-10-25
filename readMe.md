@@ -8,7 +8,7 @@ A simple, interactive Rock Paper Scissors game built with **HTML**, **CSS**, and
 
 ## 📸 Preview
 
-![Game Preview]game_screenshot.png
+![Game Preview](game_screenshot.png)
 
 ## 🚀 Features
 
