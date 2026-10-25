@@ -4,7 +4,7 @@ A simple, interactive Rock Paper Scissors game built with **HTML**, **CSS**, and
 
 ## 🔗 Live Demo
 
-> Add your GitHub Pages / deployment link here once hosted:
+
 > `https://umaima8920.github.io/Rock-Paper-Scissors/`
 
 ## 📸 Preview
